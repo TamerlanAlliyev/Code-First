@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\Asp.Net Core\\2.Explain\\3.EfCodeFirst-3 - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D359C239-9FA5-4ABA-9CEC-8C21516FA522}|EfCodeFirst\\EfCodeFirst.csproj|c:\\users\\rog\\desktop\\tamerlan\\code academy\\back-end\\asp.net core\\2.explain\\3.efcodefirst-3 - copy\\efcodefirst\\views\\size\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D359C239-9FA5-4ABA-9CEC-8C21516FA522}|EfCodeFirst\\EfCodeFirst.csproj|solutionrelative:efcodefirst\\views\\size\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D359C239-9FA5-4ABA-9CEC-8C21516FA522}|EfCodeFirst\\EfCodeFirst.csproj|c:\\users\\rog\\desktop\\tamerlan\\code academy\\back-end\\asp.net core\\2.explain\\3.efcodefirst-3 - copy\\efcodefirst\\controllers\\sizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D359C239-9FA5-4ABA-9CEC-8C21516FA522}|EfCodeFirst\\EfCodeFirst.csproj|solutionrelative:efcodefirst\\controllers\\sizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D359C239-9FA5-4ABA-9CEC-8C21516FA522}|EfCodeFirst\\EfCodeFirst.csproj|c:\\users\\rog\\desktop\\tamerlan\\code academy\\back-end\\asp.net core\\2.explain\\3.efcodefirst-3 - copy\\efcodefirst\\views\\size\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D359C239-9FA5-4ABA-9CEC-8C21516FA522}|EfCodeFirst\\EfCodeFirst.csproj|solutionrelative:efcodefirst\\views\\size\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D359C239-9FA5-4ABA-9CEC-8C21516FA522}|EfCodeFirst\\EfCodeFirst.csproj|c:\\users\\rog\\desktop\\tamerlan\\code academy\\back-end\\asp.net core\\2.explain\\3.efcodefirst-3 - copy\\efcodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D359C239-9FA5-4ABA-9CEC-8C21516FA522}|EfCodeFirst\\EfCodeFirst.csproj|solutionrelative:efcodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D359C239-9FA5-4ABA-9CEC-8C21516FA522}|EfCodeFirst\\EfCodeFirst.csproj|c:\\users\\rog\\desktop\\tamerlan\\code academy\\back-end\\asp.net core\\2.explain\\3.efcodefirst-3 - copy\\efcodefirst\\migrations\\20240218164847_null.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D359C239-9FA5-4ABA-9CEC-8C21516FA522}|EfCodeFirst\\EfCodeFirst.csproj|solutionrelative:efcodefirst\\migrations\\20240218164847_null.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D359C239-9FA5-4ABA-9CEC-8C21516FA522}|EfCodeFirst\\EfCodeFirst.csproj|c:\\users\\rog\\desktop\\tamerlan\\code academy\\back-end\\asp.net core\\2.explain\\3.efcodefirst-3 - copy\\efcodefirst\\models\\common\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D359C239-9FA5-4ABA-9CEC-8C21516FA522}|EfCodeFirst\\EfCodeFirst.csproj|solutionrelative:efcodefirst\\models\\common\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\Asp.Net Core\\2.Explain\\3.EfCodeFirst-3 - Copy\\EfCodeFirst\\Views\\Size\\Details.cshtml",
+              "RelativeDocumentMoniker": "EfCodeFirst\\Views\\Size\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\Asp.Net Core\\2.Explain\\3.EfCodeFirst-3 - Copy\\EfCodeFirst\\Views\\Size\\Details.cshtml",
+              "RelativeToolTip": "EfCodeFirst\\Views\\Size\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-19T07:22:48.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240218164847_null.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\Asp.Net Core\\2.Explain\\3.EfCodeFirst-3 - Copy\\EfCodeFirst\\Migrations\\20240218164847_null.cs",
+              "RelativeDocumentMoniker": "EfCodeFirst\\Migrations\\20240218164847_null.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\Asp.Net Core\\2.Explain\\3.EfCodeFirst-3 - Copy\\EfCodeFirst\\Migrations\\20240218164847_null.cs",
+              "RelativeToolTip": "EfCodeFirst\\Migrations\\20240218164847_null.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T07:10:50.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\Asp.Net Core\\2.Explain\\3.EfCodeFirst-3 - Copy\\EfCodeFirst\\Models\\Common\\AuditableEntity.cs",
+              "RelativeDocumentMoniker": "EfCodeFirst\\Models\\Common\\AuditableEntity.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\Asp.Net Core\\2.Explain\\3.EfCodeFirst-3 - Copy\\EfCodeFirst\\Models\\Common\\AuditableEntity.cs",
+              "RelativeToolTip": "EfCodeFirst\\Models\\Common\\AuditableEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T16:47:59.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\Asp.Net Core\\2.Explain\\3.EfCodeFirst-3 - Copy\\EfCodeFirst\\Views\\Size\\Index.cshtml",
+              "RelativeDocumentMoniker": "EfCodeFirst\\Views\\Size\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\Asp.Net Core\\2.Explain\\3.EfCodeFirst-3 - Copy\\EfCodeFirst\\Views\\Size\\Index.cshtml",
+              "RelativeToolTip": "EfCodeFirst\\Views\\Size\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T16:43:10.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SizeController.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\Asp.Net Core\\2.Explain\\3.EfCodeFirst-3 - Copy\\EfCodeFirst\\Controllers\\SizeController.cs",
+              "RelativeDocumentMoniker": "EfCodeFirst\\Controllers\\SizeController.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\Asp.Net Core\\2.Explain\\3.EfCodeFirst-3 - Copy\\EfCodeFirst\\Controllers\\SizeController.cs",
+              "RelativeToolTip": "EfCodeFirst\\Controllers\\SizeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T16:42:37.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\Asp.Net Core\\2.Explain\\3.EfCodeFirst-3 - Copy\\EfCodeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "EfCodeFirst\\Program.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\Asp.Net Core\\2.Explain\\3.EfCodeFirst-3 - Copy\\EfCodeFirst\\Program.cs",
+              "RelativeToolTip": "EfCodeFirst\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T16:37:11.393Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

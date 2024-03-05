@@ -1,0 +1,29 @@
+﻿@model List<Size>; 
+@* @model IEnumerable<Size>; *@
+@{
+    ViewData["Title"] = "Index";
+    
+}
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" />
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Name</th>
+            <th>SmallName</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach(var item in Model)
+        {
+             <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.SmallName</td>
+        </tr>
+        }
+    </tbody>
+</table>
+
